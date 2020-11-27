@@ -1,3 +1,6 @@
+/**************************************
+It's an easy pet shop system from swee.
+**************************************/
 #include <iostream>
 #include <string>
 #include "PetShop.h"
