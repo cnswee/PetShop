@@ -1,5 +1,5 @@
 /***************************************
-It's an easy pet shop system from Siwei.
+It's an easy pet shop system from Swee.
 ***************************************/
 #include <iostream>
 #include <string>
