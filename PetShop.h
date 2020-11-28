@@ -496,7 +496,7 @@ public:
         int flag = 0;
         for (int i = 0; i < pets.size(); i++)
         {
-            if ((*pets[i]).GetStoreId() == id&&(*pets[i]).GetMotherId() != " ")
+            if ((*pets[i]).GetStoreId() == id && (*pets[i]).GetMotherId() != " ")
             {
                 cout << id << "'s mother is " << (*pets[i]).GetMotherId() << endl;
                 flag = 1;
